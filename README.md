@@ -24,4 +24,4 @@ Probably not. The original Xbox and the Xbox 360 both use FATX, but use differen
 
 - "Can I use the Skeleton Key payload with this adapter?"
  
-Yes, as the Xbox 360 Memory Unit is, at it's core, just a USB adapter. I'd recommend using the USB version of the Skeleton Key payload, as you have 64+MB of space to work with. 
+Yes, as the Xbox 360 Memory Unit is, at it's core, just a USB drive, with the only differences being the connector and the voltage. I'd recommend using the USB version of the Skeleton Key payload, as you have 64+MB of space to work with. 
